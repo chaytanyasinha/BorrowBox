@@ -10,7 +10,7 @@ run npm install and change mongo db driver connections in
 
   `/api_drivers/borrow_box_uses.js` and `/api_drivers/borrow_box_inventory.js `
 
-run `nodemon .coreServer.js`
+run `node .coreServer.js`
 setup user info in `borrow_box_users` collection
 ## Tech-Stack
 
