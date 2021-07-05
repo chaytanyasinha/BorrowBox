@@ -1,4 +1,3 @@
-![Borrow Box Home page](https://raw.githubusercontent.com/rahultripathidev/borrow_box_hackathon-hackman-/master/docs/Screenshot%202020-02-29%20at%203.50.44%20PM.png)
 ## Borrow Box
 Borrow box was our hackathon web app , it is platform for the students to lend/borrow/sell things within the college campus be it some electronic device , sports equipment or even First-aid Kits and First-aid items if needed
 ## Update Log
@@ -19,3 +18,8 @@ setup user info in `borrow_box_users` collection
  - MongoDB
  - Express
  - materalizeCss
+
+<p>
+<img align="left" alt="GIF" src="./docs/Screenshot (256).png" width="600px" />  
+<img align="left" alt="GIF" src="./docs/Screenshot (257).png" width="600px" />  
+</p><br>
