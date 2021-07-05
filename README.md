@@ -21,6 +21,7 @@ setup user info in `borrow_box_users` collection
  - MongoDB
  - Express
  - materalizeCss
+ - Webpack
 
 <p>
 <img align="left" alt="GIF" src="./docs/Screenshot (256).png" width="600px" />  
